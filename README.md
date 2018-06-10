@@ -11,5 +11,5 @@ YOURHOST:PORT/personalAccessTokenTest/
 
 ex: 127.0.0.1:8000/personalAccessTokenTest
 ```
-You should be logged-in to use this route, then you should type the Token name (useually the name of the application).
-the response should be JSON data which is access token and some data about client.
+**You should be logged-in to use this route**, then you should type the Token name (useually the name of the application).
+the response should be **JSON** data which is access token and some data about client.
